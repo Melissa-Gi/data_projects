@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "class": "dog",
+            "confidence": "0.94",
+            "objectID": "7262de4e-da5e-4c50-91eb-12d136d55392",
+            "colours": {
+                "B": 168,
+                "G": 48,
+                "R": 134
+            },
+            "bounding_box": {
+                "x1": 116,
+                "y1": 116,
+                "x2": 274,
+                "y2": 417
+            }
+        },
+        {
+            "class": "person",
+            "confidence": "0.89",
+            "objectID": "bda0ddbf-8982-4e01-95e8-a1207330aa9d",
+            "colours": {
+                "B": 81,
+                "G": 98,
+                "R": 209
+            },
+            "bounding_box": {
+                "x1": 123,
+                "y1": 53,
+                "x2": 503,
+                "y2": 414
+            }
+        }
+    ]
+]
