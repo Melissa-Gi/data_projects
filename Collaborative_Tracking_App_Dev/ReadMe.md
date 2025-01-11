@@ -2,7 +2,7 @@ PLEASE FIND GITLAB REPO HERE: https://gitlab.cs.uct.ac.za/capstone_cs3/TeamTJM.g
 
 This application is configured to run in a Python virtual environment for your convenience:
 
-1. Create the virtual environment in TeamTJM directory
+1. Create the virtual environment in Collaborative_Tracking_App_Dev directory
 
 python3 -m venv venv
 NB. This application has currently been tested to success with 3.8.3 and 3.10.12
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 Again, you only need to do this once.
 
 4. Run the application
-Run the application file App.py from within the TeamTJM directory
+Run the application file App.py from within the Collaborative_Tracking_App_Dev directory
 
 cd TeamTJM
 App/App.py
