@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "class": "dog",
+            "confidence": "0.94",
+            "objectID": "0",
+            "colours": {
+                "B": 126,
+                "G": 86,
+                "R": 227
+            },
+            "bounding_box": {
+                "x1": 116,
+                "y1": 116,
+                "x2": 274,
+                "y2": 417
+            }
+        },
+        {
+            "class": "person",
+            "confidence": "0.89",
+            "objectID": "1",
+            "colours": {
+                "B": 61,
+                "G": 182,
+                "R": 169
+            },
+            "bounding_box": {
+                "x1": 123,
+                "y1": 53,
+                "x2": 503,
+                "y2": 414
+            }
+        }
+    ]
+]
